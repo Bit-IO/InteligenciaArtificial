@@ -1,0 +1,15 @@
+Clima  ,Temperatura,Humedad,Viento,Salir
+Soleado,Caliente   ,Alta   ,No    ,No
+Soleado,Caliente   ,Alta   ,Sí    ,No
+Nublado,Caliente   ,Alta   ,No    ,Sí
+Lluvia ,Templada   ,Alta   ,No    ,Sí
+Lluvia ,Fría       ,Normal ,No    ,Sí
+Lluvia ,Fría       ,Normal ,Sí    ,No
+Nublado,Fría       ,Normal ,Sí    ,Sí
+Soleado,Templada   ,Alta   ,No    ,No
+Soleado,Fría       ,Normal ,No    ,Sí
+Lluvia ,Templada   ,Normal ,No    ,Sí
+Soleado,Templada   ,Normal ,Sí    ,Sí
+Nublado,Templada   ,Alta   ,Sí    ,Sí
+Nublado,Caliente   ,Normal ,No    ,Sí
+Lluvia ,Templada   ,Alta   ,Sí    ,No
