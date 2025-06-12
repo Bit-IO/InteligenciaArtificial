@@ -8,6 +8,7 @@ Este repositorio contiene los documentos, códigos y recursos que utilicé duran
 ### 🧮 Códigos
 
 - Implementación desde cero de árboles de decisión (CART) con explicación matemática
+- Ensayo critico sobre arboles de decisión
 
 ## 🏫 Sobre la Maestría
 
