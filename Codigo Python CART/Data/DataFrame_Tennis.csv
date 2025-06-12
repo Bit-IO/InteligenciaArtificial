@@ -1,0 +1,15 @@
+Clima,Temperatura,Humedad,Viento,Salir
+soleado,alta,alta,debil,no
+soleado,alta,alta,fuerte,no
+nublado,alta,alta,debil,si
+lluvioso,media,alta,debil,si
+lluvioso,baja,normal,debil,si
+lluvioso,baja,normal,fuerte,no
+nublado,baja,normal,fuerte,si
+soleado,media,alta,debil,no
+soleado,baja,normal,debil,si
+lluvioso,media,normal,debil,si
+soleado,media,normal,fuerte,si
+nublado,media,alta,fuerte,si
+nublado,alta,normal,debil,si
+lluvioso,media,alta,fuerte,no
